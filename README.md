@@ -1,7 +1,4 @@
-# paadagattam
-Ed-Tech
-
-# 📌 Paadagattam – Build Phase Submission
+# 📌 Paadagattam – Build Phase Submission - Ed_Tech
 
 ## 🧠 Project Summary
 
