@@ -53,7 +53,7 @@ User -> Frontend/Client interface ->Backend/Application Logic -> Database/Extern
 
 - Frontend: HTML, CSS, JavaScript  
 - Backend: Node.js, Express  
-- Database: PostgreSQL / MongoDB  
+- Database: PostgreSQL  
 - Version Control: Git & GitHub  
 
 ---
@@ -82,7 +82,6 @@ https://drive.google.com/file/d/1_XVeR0tVbm6aMoWdmBOIVXYEiPalc6qI/view?usp=share
 - Submission Type: Build Phase  
 - Artifacts: Google Drive  
 - Documentation: GitHub README  
-- Demo: Vimeo video with voiceover  
 
 ---
 
@@ -90,6 +89,11 @@ https://drive.google.com/file/d/1_XVeR0tVbm6aMoWdmBOIVXYEiPalc6qI/view?usp=share
 
 **Prabhas Manchikani**  
 GitHub: https://github.com/prabhas3838  
+
+Teammates:
+B.Sai charan
+A.Chandra vamsi
+P.Tirupathi Reddy
 
 ---
 
